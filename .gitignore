@@ -1,3 +1,5 @@
 node_modules
 config.js
-*.json
+serviceAccont.json
+media.json
+Users.json
